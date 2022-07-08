@@ -12,5 +12,6 @@ public class PrintSpecificGrid
             }
             System.out.println();
         }
+     System.out.println();
     }
 }
